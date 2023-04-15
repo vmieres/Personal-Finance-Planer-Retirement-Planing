@@ -1,9 +1,17 @@
 # **Financial-Planning**
-![](https://www.mountainriverfinancial.com/wp-content/uploads/2018/06/fair-price-for-financial-advisor.jpg)
+![](https://keilfp.com/wp-content/uploads/2022/10/5-step-retirement-plan-videos.jpg)
 
-##  **Background**
+#  **Tool for a personal financial planner and retirement planning**
 
-You decided to start a FinTech consultancy firm, and you want to make a difference by working on projects with high social impact in local communities. You just won your first contract to help one of the biggest credit unions in your area. They want to create a tool that helps their members enhance their financial health. The Chief Technology Officer (CTO) of the credit union asked you to develop a prototype application to demo in the next credit union assembly.
+ This repo is about creating a tool that helps people's assess their financial health. 
+ 
+ Using the **Alpaca Markets API** to to pull historical stocks and bonds information and the **Alternative Free Crypto API** to retrieve Bitcoin and Ethereum prices.
+
+ ### **The first Part is about a Personal Financial Planner**
+ 
+
+
+
 The credit union board wants to allow the union's members to assess their monthly personal finances, and also be able to forecast a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds.
 In this homework activity, you will use all the skills you have learned until now - focusing on using APIs as part of the technical solution - to create two financial analysis tools.
 The first will be a personal finance planner that will allow users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
